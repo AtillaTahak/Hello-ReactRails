@@ -77,7 +77,7 @@ Run `rails new Project --database=postgresql` to create a new project with Postg
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kingqabil/Blog-App/issues).
+Feel free to check the [issues page](https://github.com/AtillaTahak/).
 
 ## Acknowledgements
 
